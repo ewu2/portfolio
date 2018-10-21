@@ -1,0 +1,63 @@
+/* FONTS */
+@font-face {font-family: "Caveat"; src: url('../fonts/Caveat-Regular.ttf');}
+@font-face {font-family: "Comfortaa"; src: url('../fonts/Comfortaa-Regular.ttf');}
+@font-face {font-family: "BrownhillScript"; src: url('../fonts/Brownhill-Script.ttf');}
+
+
+/* NAVIGATION */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#vid {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    opacity: 0.95;
+}
+
+.navbar-brand {
+    text-shadow: 1px 1px 4px #000000;
+    font-family: Comfortaa;
+    font-size: 25px;
+}
+
+.nav-link {
+    text-shadow: 1px 1px 4px #000000;
+    font-size: 20px;
+    -webkit-transition: color .7s; /* For Safari 3.0 to 6.0 */
+    transition: color .7s; /* For modern browsers */
+}
+
+
+/* HOME PAGE */
+.main {
+    margin-top: 180px;
+    display: none;
+}
+
+.about-btn {
+    text-shadow: 1px 1px 4px #000000;
+    font-family: Caveat;
+}
+
+.name {
+    color: whitesmoke;
+    text-shadow: 1px 1px 4px #000000;
+    font-family: BrownhillScript;
+    font-size: 100px;
+}
+
+/* FOOTER */
+.footer {
+    color: white;
+    text-shadow: 1px 1px 4px #000000;
+    font-size: 20px;
+    -webkit-transition: color .7s; /* For Safari 3.0 to 6.0 */
+    transition: color .7s; /* For modern browsers */
+    padding-left: 39%;
+}

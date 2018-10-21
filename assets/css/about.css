@@ -1,0 +1,29 @@
+body {
+    background-image: url("../images/about-me.jpg");
+}
+
+.about-me {
+    display: none;
+    margin-bottom: 40px;
+    margin-left: 100px;
+}
+
+.header {
+    font-family: BrownhillScript;
+    font-size: 85px;
+    color: whitesmoke;
+    text-shadow: 1px 1px 4px #000000;
+}
+
+.lead {
+    font-size: 20px;
+    color: whitesmoke;
+    text-shadow: 1px 1px 4px #000000;
+}
+
+.video-btn,
+.code-btn {
+    margin-top: 20px;
+    margin-right: 20px;
+    text-shadow: 1px 1px 4px #000000;
+}

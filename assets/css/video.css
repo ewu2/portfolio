@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(43, 43, 43);
+}
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;
+}
+    
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.row {
+    margin-bottom: 100px;
+}
+
+h1 {
+    color: whitesmoke;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    font-family: Caveat;
+    font-size: 60px;
+}
+
+h3 {
+    color: whitesmoke;
+    font-family: Caveat;
+    margin-top: 20px;
+    font-size: 40px;
+}
+
+.vid1,
+.vid2,
+.vid3,
+.vid4,
+.vid5,
+.vid6 {
+    display: none;
+}
+
+.header1,
+.header2,
+.header3,
+.header4,
+.header5,
+.header6 {
+    display: none;
+}

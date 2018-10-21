@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(43, 43, 43);
+}
+
+.row {
+    margin-bottom: 100px;
+}
+
+h1 {
+ color: whitesmoke;
+ margin-top: 20px;
+ margin-bottom: 50px;
+ font-family: Comfortaa;
+}
+
+img {
+    width: 60%;
+    height: auto;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+h3 {
+    color: whitesmoke;
+    font-family: Comfortaa;
+}
+
+.col1,
+.col2,
+.col3,
+.col4,
+.col5,
+.col6 {
+    display: none;
+}
