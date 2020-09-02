@@ -14,7 +14,7 @@ body {
 
 .profile-pic {
   clip-path: circle(50% at 50% 50%);
-  margin: 110px 0px 0px 0px;
+  margin: 120px 0px 0px 0px;
   height: 350px;
   width: auto;
 }
