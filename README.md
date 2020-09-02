@@ -1,3 +1,3 @@
-# Portfolio (OCT 2018)
-My updated portfolio...
+# Portfolio (SEP 2020)
+My Web Porfolio:
 ###### https://ewu2.github.io/portfolio/
