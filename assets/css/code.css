@@ -8,9 +8,10 @@ body {
 
 h1 {
   color: whitesmoke;
+  font-size: 60px;
   margin-top: 20px;
-  margin-bottom: 50px;
-  font-family: Comfortaa;
+  margin-bottom: 80px;
+  /* font-family: Comfortaa; */
 }
 
 img {
@@ -22,7 +23,11 @@ img {
 
 h3 {
   color: whitesmoke;
-  font-family: Comfortaa;
+  /* font-family: Comfortaa; */
+}
+
+.btn {
+  margin: 5px 10px 5px 10px;
 }
 
 .col1,

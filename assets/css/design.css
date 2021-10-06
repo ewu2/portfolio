@@ -9,7 +9,7 @@ body {
 h1 {
   color: whitesmoke;
   margin-top: 20px;
-  margin-bottom: 75px;
+  margin-bottom: 80px;
   /* font-family: Caveat; */
   font-size: 60px;
 }
@@ -48,6 +48,15 @@ img {
 .maynooth-bg {
   /* background-color: #c1c2d0; */
   padding: 100px;
+}
+
+.bike-vid,
+.maynooth-vid {
+  margin-top: 50px;
+}
+
+.bike-text {
+  margin-top: 80px;
 }
 
 .img1,

@@ -55,7 +55,8 @@
 
 .about-btn {
   /* text-shadow: 1px 1px 4px #000000; */
-  font-family: Caveat;
+  /* font-family: Caveat; */
+  margin-top: 20px;
 }
 
 .name {
