@@ -27,4 +27,9 @@ $(document).ready(function () {
     $('.header4').fadeIn(7000);
     $('.header5').fadeIn(8000);
     $('.header6').fadeIn(9000);
+
+    //fade in ui/ux elements
+    $('.img1').fadeIn(4000);
+    $('.img2').fadeIn(5000);
+    $('.img3').fadeIn(6000);
 })

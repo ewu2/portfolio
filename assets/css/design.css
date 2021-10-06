@@ -1,0 +1,57 @@
+body {
+  background-color: #5e6180;
+}
+
+.row {
+  margin-bottom: 100px;
+}
+
+h1 {
+  color: whitesmoke;
+  margin-top: 20px;
+  margin-bottom: 75px;
+  /* font-family: Caveat; */
+  font-size: 60px;
+}
+
+h3 {
+  color: whitesmoke;
+  /* font-family: Caveat; */
+  margin-top: 100px;
+  font-size: 40px;
+}
+
+p {
+  color: whitesmoke;
+}
+
+.lead {
+  color: whitesmoke;
+}
+
+img {
+  width: 60%;
+  height: auto;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.btn {
+  margin: 10px 10px 10px 10px;
+}
+
+.roar-bikes-bg {
+  background-color: #383a4d;
+  padding: 100px;
+}
+
+.maynooth-bg {
+  /* background-color: #c1c2d0; */
+  padding: 100px;
+}
+
+.img1,
+.img2,
+.img3 {
+  display: none;
+}
