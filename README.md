@@ -1,3 +1,3 @@
-# Portfolio (SEP 2020)
+# Portfolio
 My Web Porfolio:
 ###### https://ewu2.github.io/portfolio/
